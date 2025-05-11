@@ -1,6 +1,6 @@
 # About Me Web App
+![Screenshot 2025-05-12 010044](https://github.com/user-attachments/assets/71138739-3ed2-4735-9265-577ee2424574)
 
-![App Screenshot](./assets/header-image.png)
 
 A responsive personal portfolio website built using modern web technologies. Hosted live at [about-me-seven-ochre.vercel.app](https://about-me-seven-ochre.vercel.app/).
 
