@@ -44,10 +44,12 @@ This project is deployed using Vercel.
 Every push to the main branch triggers automatic deployment.
 
 🤝 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/lelien-panda
-🧑‍💻 GitHub: https://github.com/lelixn
+
+💼 LinkedIn: https://www.linkedin.com/in/lelien-panda <br>
+🧑‍💻 GitHub: https://github.com/lelixn <br>
 🌐 Portfolio: https://about-me-seven-ochre.vercel.app/
 
+---
 ⭐ Support
 If you like this project, consider giving it a ⭐ on GitHub — it really helps!
 
